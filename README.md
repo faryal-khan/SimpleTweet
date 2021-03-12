@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="" width="350" height="590"/> <br>
+<img src="https://github.com/faryal-khan/SimpleTweet/blob/main/Twitter.gif" width="350" height="590"/> <br>
 
 ## Open-source libraries used
 
